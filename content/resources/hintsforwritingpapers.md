@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d69bb028-797d-059b-59fa-e52aa0242e93
 resourcetype: Document
 title: Hints for writing papers
 uid: 0295ea11-a907-0c6c-aa19-86bb8237094a
