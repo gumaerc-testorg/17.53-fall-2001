@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Stylistic and substantive hints on writing papers.
-file: /courses/17-53-democratization-in-asia-africa-and-latin-america-fall-2001/0295ea11a9070c6caa1986bb8237094a_hintsforwritingpapers.pdf
+file: /ol-ocw-studio-app/courses/17-53-democratization-in-asia-africa-and-latin-america-fall-2001/0295ea11a9070c6caa1986bb8237094a_hintsforwritingpapers.pdf
+file_size: 106400
 file_type: application/pdf
 learning_resource_types:
 - Assignments
