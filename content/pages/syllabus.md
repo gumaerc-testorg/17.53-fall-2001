@@ -46,7 +46,7 @@ Plagiarism Clause
 
 When writing a paper (or an essay exam), you must identify the nature and extent of your intellectual indebtedness to the authors whom you have read or to anyone else from whom you have gotten ideas (e.g., classmates, invited lectures, etc.). You can do so through footnotes, bibliography, or some other kind of scholarly apparatus. Failure to disclose your reliance on the research or thinking of others is PLAGIARISM, which is considered to be the most serious academic offense and will be treated as such. If you have any questions about how you should document the sources of your ideas, please ask your instructors **before** you submit your written work. You may also wish to consult Gordon Harvey's _Writing with Sources_ (Hackett, 1998), which will be placed on reserve with the rest of the course readings.
 
-MIT's academic honesty policy can be found at the {{% resource_link "71197484-ef04-43a3-b6c6-9d3284492d79" "Policies and Procedures" %}} website.
+MIT's academic honesty policy can be found at the [Policies and Procedures](http://web.mit.edu/Policies/10/index.html) website.
 
 Important Dates
 ---------------
